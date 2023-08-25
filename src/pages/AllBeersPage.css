@@ -1,0 +1,10 @@
+.beer-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.beer-card {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid grey;
+}

@@ -1,0 +1,9 @@
+nav {
+    background-color: rgb(43, 202, 255);
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    margin: 1vw;
+}
