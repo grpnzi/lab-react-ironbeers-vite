@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 import beersImage from './../assets/beers.png';
 import randomBeerImage from './../assets/random-beer.png';
 import newBeerImage from './../assets/new-beer.png';
+import "./HomePage.css";
 
 function HomePage() {
     return (
